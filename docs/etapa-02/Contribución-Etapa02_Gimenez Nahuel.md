@@ -27,8 +27,8 @@ En esta etapa me enfoqué en armar, revisar y corregir los diagramas en ERDPlus 
 - **Documentación de normalización formal:** Redactar la justificación técnica paso a paso (1FN, 2FN y 3FN) para fundamentar formalmente cada una de las tablas desagregadas.
 
 ## 5. Evidencias en el repositorio
-- `docs/etapa-02/Etapa 2 Esquema relacional_3.jpg`: Diagrama relacional lógico final en ERDPlus con tablas, PKs y FKs.
-- `docs/etapa-02/Etapa 2 diagrama_2.jpg`: Diagrama conceptual Entidad-Relación (DER) en ERDPlus.
+- `docs/etapa-02/Etapa 2 Esquema relacional.png`: Diagrama relacional lógico final en ERDPlus con tablas, PKs y FKs.
+- `docs/etapa-02/Etapa 2 diagrama.png`: Diagrama conceptual Entidad-Relación (DER) en ERDPlus.
 - `docs/etapa-02/justificacion_3fn.md`: Documentación técnica del proceso de normalización (1FN, 2FN y 3FN).
 - `docs/etapa-02/CONTRIBUCION_etapa02_Gimenez_Nahuel.md`: Archivo con este manifiesto de contribución individual.
 - **Commit:** "docs(etapa-02): version final de diagramas DER, relacional y normalizacion 3FN"
