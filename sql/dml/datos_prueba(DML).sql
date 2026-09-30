@@ -93,14 +93,14 @@ INSERT INTO Proveedor_Producto (CUIT, Id_producto) VALUES ('20-22222222-3', 10);
 GO
 
 -- Tabla: Deposito 
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Completado', 101, '2026-01-10 08:30:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Pendiente', 102, '2026-02-15 09:00:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('En Proceso', 103, '2026-03-01 10:15:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Completado', 104, '2026-03-12 11:45:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Urgente', 105, '2026-03-20 14:20:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Completado', 106, '2026-03-25 16:00:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Pendiente', 107, '2026-03-28 08:00:00');
-INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Cancelado', 108, '2026-03-29 12:30:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Completado', 101, '20260110 08:30:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Pendiente', 102, '20260215 09:00:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('En Proceso', 103, '20260301 10:15:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Completado', 104, '20260312 11:45:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Urgente', 105, '20260320 14:20:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Completado', 106, '20260325 16:00:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Pendiente', 107, '20260328 08:00:00');
+INSERT INTO Deposito (Estado_reposicion, Orden_reposicion, Fecha_reposicion) VALUES ('Cancelado', 108, '20260329 12:30:00');
 GO
 
 -- Tabla: Producto_Deposito 
@@ -143,16 +143,16 @@ INSERT INTO Telefono_Cliente (Telefono, DNI) VALUES ('011-88889999', '34667788')
 GO
 
 -- Tabla: Ventas 
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-02-20 10:00:00', '35123456');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-02-20 11:30:00', '36789123');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-03-21 14:15:00', '32456789');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-03-22 16:45:00', '38987654');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-04-23 09:20:00', '40112233');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-04-24 15:10:00', '33445566');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-05-25 17:00:00', '37889900');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-05-26 12:05:00', '39554433');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-06-27 13:40:00', '31223344');
-INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('2026-06-28 18:25:00', '34667788');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260220 10:00:00', '35123456');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260220 11:30:00', '36789123');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260321 14:15:00', '32456789');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260322 16:45:00', '38987654');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260423 09:20:00', '40112233');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260424 15:10:00', '33445566');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260525 17:00:00', '37889900');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260526 12:05:00', '39554433');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260627 13:40:00', '31223344');
+INSERT INTO Ventas (Fecha_compra, DNI) VALUES ('20260628 18:25:00', '34667788');
 GO
 
 -- Tabla: Detalle_venta 
