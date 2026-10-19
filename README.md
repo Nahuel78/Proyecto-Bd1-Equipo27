@@ -4,9 +4,12 @@ Repositorio oficial correspondiente al trabajo práctico integrador de la materi
 
 ---
 ## 👥 Integrantes del Equipo
-**Giménez, Carlos Nahuel** DNI: 44410650 
-**Medina Andrea Marisol** DNI: 37883537
-**Dario Nahuel Gonzales Machado** DNI: 43266200
+**Giménez Carlos Nahuel** DNI: 44410650,
+
+**Medina Andrea Marisol** DNI: 37883537,
+
+**Dario Nahuel Gonzales Machado** DNI: 43266200,
+
 **Montiel Valentina ** DNI:45526766
 ---
 
