@@ -11,6 +11,7 @@ Repositorio oficial correspondiente al trabajo práctico integrador de la materi
 **Dario Nahuel Gonzales Machado** DNI: 43266200
 
 **Montiel Valentina ** DNI:45526766
+
 ---
 
 ## 📋 Descripción del Proyecto
