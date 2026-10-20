@@ -1,4 +1,4 @@
-# 🛒 Proyecto Base de Datos: Sistema de Gestión de Consorcio / Ventas
+# 🛒 Proyecto Base de Datos: Sistema de Gestión Comercial de Librerias “Yenny-El ateneo”
 
 Repositorio oficial correspondiente al trabajo práctico integrador de la materia, desarrollado por el **Equipo 27** (Comisión 2 - UNNE).
 
