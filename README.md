@@ -5,22 +5,21 @@ Repositorio oficial correspondiente al trabajo práctico integrador de la materi
 ---
 
 ## 👥 Integrantes del Equipo
-* **Giménez, Carlos Nahuel** — DNI: 44410650[cite: 3]
-* **Medina, Andrea Marisol** — DNI: 37883537[cite: 3]
-* **Gonzales Machado, Darío Nahuel** — DNI: 43266200[cite: 3]
-* **Montiel, Valentina** — DNI: 45526766[cite: 3]
-
+* **Giménez, Carlos Nahuel** — DNI: 44410650
+* **Medina, Andrea Marisol** — DNI: 37883537
+* **Gonzales Machado, Darío Nahuel** — DNI: 43266200
+* **Montiel, Valentina** — DNI: 45526766
 ---
 
 ## 📋 Descripción del Proyecto
-Este sistema está diseñado para la gestión y administración integral de una sucursal de la cadena de librerías **"Yenny - El Ateneo"**[cite: 3]. El desarrollo abarca desde el modelado conceptual y relacional hasta la implementación de esquemas en bases de datos y la resolución de consultas complejas utilizando Transact-SQL en SQL Server[cite: 3].
+Este sistema está diseñado para la gestión y administración integral de una sucursal de la cadena de librerías **"Yenny - El Ateneo"**. El desarrollo abarca desde el modelado conceptual y relacional hasta la implementación de esquemas en bases de datos y la resolución de consultas complejas utilizando Transact-SQL en SQL Server.
 ---
 
 ### 🎯 Alcance del Sistema
-* **Gestión de inventario y stock:** Control de libros, textos académicos y artículos de papelería, actualización automática por ventas y alertas de stock mínimo[cite: 3].
-* **Gestión de clientes y socios:** Registro de compradores, validación de datos únicos y administración de categorías de socios preferenciales[cite: 3].
-* **Gestión de ventas y facturación:** Proceso de cobro en línea de cajas, cálculo automático de subtotales y totales, y almacenamiento del detalle de venta con el historial inalterable del precio unitario[cite: 3].
-* **Medios de pago:** Procesamiento y registro de pagos en efectivo, tarjetas y billeteras virtuales[cite: 3].
+* **Gestión de inventario y stock:** Control de libros, textos académicos y artículos de papelería, actualización automática por ventas y alertas de stock mínimo.
+* **Gestión de clientes y socios:** Registro de compradores, validación de datos únicos y administración de categorías de socios preferenciales.
+* **Gestión de ventas y facturación:** Proceso de cobro en línea de cajas, cálculo automático de subtotales y totales, y almacenamiento del detalle de venta con el historial inalterable del precio unitario.
+* **Medios de pago:** Procesamiento y registro de pagos en efectivo, tarjetas y billeteras virtuales.
 ---
 
 ## 📂 Estructura del Repositorio
