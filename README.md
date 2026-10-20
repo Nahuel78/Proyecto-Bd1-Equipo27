@@ -1,22 +1,26 @@
-# 🛒 Proyecto Base de Datos: Sistema de Gestión Comercial de Librerias “Yenny-El ateneo”
+# 🛒 Proyecto Base de Datos: Sistema de Gestión Comercial de Librerías "Yenny - El Ateneo"
 
 Repositorio oficial correspondiente al trabajo práctico integrador de la materia, desarrollado por el **Equipo 27** (Comisión 2 - UNNE).
 
 ---
+
 ## 👥 Integrantes del Equipo
-**Giménez Carlos Nahuel** DNI: 44410650
-
-**Medina Andrea Marisol** DNI: 37883537
-
-**Dario Nahuel Gonzales Machado** DNI: 43266200
-
-**Montiel  Valentina** DNI:45526766
+* **Giménez, Carlos Nahuel** — DNI: 44410650[cite: 3]
+* **Medina, Andrea Marisol** — DNI: 37883537[cite: 3]
+* **Gonzales Machado, Darío Nahuel** — DNI: 43266200[cite: 3]
+* **Montiel, Valentina** — DNI: 45526766[cite: 3]
 
 ---
 
 ## 📋 Descripción del Proyecto
-Este sistema está diseñado para la gestión y administración integral de datos, abarcando desde el modelado conceptual y relacional hasta la implementación de esquemas en bases de datos y la resolución de consultas complejas (facturación, reportes de ventas y lógica de negocio avanzada) utilizando Transact-SQL en SQL Server.
+Este sistema está diseñado para la gestión y administración integral de una sucursal de la cadena de librerías **"Yenny - El Ateneo"**[cite: 3]. El desarrollo abarca desde el modelado conceptual y relacional hasta la implementación de esquemas en bases de datos y la resolución de consultas complejas utilizando Transact-SQL en SQL Server[cite: 3].
+---
 
+### 🎯 Alcance del Sistema
+* **Gestión de inventario y stock:** Control de libros, textos académicos y artículos de papelería, actualización automática por ventas y alertas de stock mínimo[cite: 3].
+* **Gestión de clientes y socios:** Registro de compradores, validación de datos únicos y administración de categorías de socios preferenciales[cite: 3].
+* **Gestión de ventas y facturación:** Proceso de cobro en línea de cajas, cálculo automático de subtotales y totales, y almacenamiento del detalle de venta con el historial inalterable del precio unitario[cite: 3].
+* **Medios de pago:** Procesamiento y registro de pagos en efectivo, tarjetas y billeteras virtuales[cite: 3].
 ---
 
 ## 📂 Estructura del Repositorio
@@ -26,7 +30,7 @@ El repositorio se encuentra organizado por las distintas etapas de desarrollo ex
 * `etapa02/` -> Normalización (hasta 3FN) y esquemas relacionales.
 * `etapa03/` -> Creación de tablas, restricciones (Constraints) y scripts DDL/DML.
 * `etapa04/` -> **Consultas y Casos de Uso** (incluye el manifiesto individual con comprobantes, reportes agregados y consultas avanzadas).
-* `etapa05/`
+* `etapa05/`Procedimientos, funciones, transacciones, triggers
 * `sql/` -> Scripts de Transact-SQL utilizados para la creación de esquemas, tablas, cargas y pruebas de consultas.
 ---
 
