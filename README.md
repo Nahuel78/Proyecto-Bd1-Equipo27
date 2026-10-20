@@ -28,8 +28,8 @@ El repositorio se encuentra organizado por las distintas etapas de desarrollo ex
 * `etapa01/` -> Diagramas Entidad-Relación y modelado conceptual.
 * `etapa02/` -> Normalización (hasta 3FN) y esquemas relacionales.
 * `etapa03/` -> Creación de tablas, restricciones (Constraints) y scripts DDL/DML.
-* `etapa04/` -> **Consultas y Casos de Uso** (incluye el manifiesto individual con comprobantes, reportes agregados y consultas avanzadas).
-* `etapa05/`Procedimientos, funciones, transacciones, triggers
+* `etapa04/` -> Consultas y Casos de Uso (incluye el manifiesto individual con comprobantes, reportes agregados y consultas avanzadas).
+* `etapa05/` -> Procedimientos, funciones, transacciones, triggers.
 * `sql/` -> Scripts de Transact-SQL utilizados para la creación de esquemas, tablas, cargas y pruebas de consultas.
 ---
 
