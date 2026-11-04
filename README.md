@@ -45,3 +45,4 @@ El repositorio se encuentra organizado por las distintas etapas de desarrollo ex
 2. Abre tu entorno de **SQL Server Management Studio (SSMS)**.
 3. Ejecuta primero los scripts de creación de la base de datos ubicados en las etapas anteriores si aún no la tienes cargada.
 4. Abre los archivos de la **Etapa IV** para probar los scripts de facturación, reportes con `GROUP BY` y consultas con subconsultas y `HAVING`.
+5. Abre los scripts de la Etapa V (carpetas Procedimiento_funciones, Transacciones y Disparadores_Auditorio) para crear los procedimientos almacenados, probar los bloques transaccionales simulando una venta, y verificar que los triggers registren correctamente los cambios en las tablas de auditoría.
